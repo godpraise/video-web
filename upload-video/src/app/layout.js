@@ -1,4 +1,4 @@
-import './globals.css'; // 글로벌 스타일을 여기에 import
+import './globals.css';
 
 export const metadata = {
   title: 'Wetube',
